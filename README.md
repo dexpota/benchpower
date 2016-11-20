@@ -3,7 +3,9 @@ A DIY project to build a simple benchtop power supply using a PSU.
 
 ## Project structure
 
-* `body`: here you can find all files you need to build your **benchpower**. You can open `dwg` files using a CAD software like AutoCAD, the `dxf` versions are available in the same directory and can be opened using for example Inkscape or any compatible software.
+* `case`: here you can find all files you need to build your **benchpower**. You can open `dwg` files using a CAD software like AutoCAD, the `dxf` versions are available in the same directory and can be opened using for example Inkscape or any compatible software.
+* `references`: reference images useful during the designing process 
+* `images`: final assembly, step by step images and other things.
 
 ## Tools and materials
 
