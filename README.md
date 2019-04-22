@@ -3,9 +3,9 @@
 
 # benchpower
 
-[![license badge][license]][1]
+> A DIY project to build a simple benchtop power supply using a PSU.
 
-A DIY project to build a simple benchtop power supply using a PSU.
+[![license badge][license]][1]
 
 ## Project structure
 
