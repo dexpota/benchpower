@@ -1,11 +1,11 @@
-[1]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[license]: https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png
+[license]: http://creativecommons.org/licenses/by-nc-sa/4.0/
+[license-badge]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg?style=for-the-badge
 
 # benchpower
 
 > A DIY project to build a simple benchtop power supply using a PSU.
 
-[![license badge][license]][1]
+[![license badge][license-badge]][license]
 
 ## Project structure
 
@@ -30,4 +30,4 @@
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][1].
+This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][license].
